@@ -4,5 +4,5 @@
 3. Create a new branch guest in web. Use comman git switch to change branch.
 4. I can't see a change.
 5. Main and guest are two different branches. I had problem in thrird line because there were different in two branches. I corrected it manual.
-6. No because file not sync. Use command git pull for this.
+6. No because file not sync. Use command git pull for sync.
 ![alt text](https://www.teambonding.com/wp-content/uploads/2014/06/Top-Secret2.jpg)
